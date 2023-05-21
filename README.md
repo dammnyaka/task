@@ -1,5 +1,5 @@
- task1 https://task1-komo.vercel.app/
- task2 https://task2-komo.vercel.app/
+- task1 https://task1-komo.vercel.app/
+- task2 https://task2-komo.vercel.app/
 
 ## Задание 1
 
