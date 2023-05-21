@@ -118,6 +118,8 @@
   margin-top: 10vh;
   display: flex;
   justify-content: space-between;
+
+  z-index: 2;
 }
 .main_title {
   font-family: "Inter", sans-serif;
