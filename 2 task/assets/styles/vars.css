@@ -1,0 +1,8 @@
+:root {
+  --text: #e4e5ea;
+  --backgound: #0e1014;
+  --gradient: linear-gradient(92deg, #fcb045 27.14%, #ff3f78 121%), #e4e5ea;
+  --gradient2: linear-gradient(90deg, #fcb045 36.99%, #fd1d1d 100%);
+  --color-footer-title: #656566;
+  --button: #4077f3;
+}
