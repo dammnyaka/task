@@ -69,14 +69,16 @@
 
 .header {
   position: relative;
-  top: 2vw;
-  height: 10vh;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
 
+  top: 2vw;
+  height: 10vh;
   max-width: 1140px;
   margin: 0 auto;
+
+  z-index: 3;
 }
 .header_nav {
   display: flex;
